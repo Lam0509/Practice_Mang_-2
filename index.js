@@ -39,6 +39,17 @@
 //     return index != '';
 // }
 // alert(res.length);
+// hoặc
+// let str = prompt('Nhập vào một chuỗi');
+// let arr = str.split(' ');
+// let w = [];
+// for (let i = 0; i < arr.length; i++) {
+//     if (arr[i] != '') {
+//         w.push(arr[i]);
+//     }
+// }
+// alert(w.length);
+
 
 // Bài 5
 // let arr1 = 'Hello I am Lam';
@@ -65,6 +76,9 @@
 //     }
 // })
 // alert(newArr);
+
+
+
 
 
 
